@@ -17,6 +17,7 @@ public class MRTEST {
     public static void main(String[] args) {
         System.out.print("Hei på du");
         System.out.print("Linje2");
+        System.out.print("yeet");
     }
     
 }
