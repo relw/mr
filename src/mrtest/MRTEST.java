@@ -19,6 +19,7 @@ public class MRTEST {
         System.out.print("Linje2");
         System.out.print("yeet");
         System.out.print("Skeet");
+        System.out.print("Heep");
     }
     
 }
