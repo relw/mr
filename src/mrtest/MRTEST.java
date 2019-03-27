@@ -21,7 +21,9 @@ public class MRTEST {
         System.out.print("Skeet");
         System.out.print("erghj5yrhtwefqrghtr");
         System.out.print("Heep");
+        System.out.print("Dette er bare enda en test")
         
     }
+
     
 }
